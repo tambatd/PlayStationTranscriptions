@@ -3,3 +3,4 @@ A prototype of PS App transcription services to on screen for PS4, allowing hear
 to read party audio mid-game
 ![image](https://github.com/tambatd/PlayStationTranscriptions/blob/master/Intro.jpg)
 
+![video](https://github.com/tambatd/PlayStationTranscriptions/blob/master/Video.mp4)
